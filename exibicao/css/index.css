@@ -1,0 +1,20 @@
+.nav{
+	display:inline-block;
+	width: 250px;
+	height: 200px;
+	font-size: 30px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+h3{
+	font-size: 25px;
+}
+
+/*button{
+	width: 250px;
+	height: 200px;
+	font-size: 30px;
+}*/
