@@ -1,6 +1,6 @@
 # SistemaBD
 
-Projeto Final de Banco de Dados da disciplina omônima na Universidade de Brasília. Esse projeto foi feito em um grupo de quatro pessoas. São elas:
+Projeto Final da disciplina de Banco de Dados na Universidade de Brasília. Esse projeto foi feito em um grupo de quatro pessoas. São elas:
 
 	Alexandre Olinda Martins - 13/0004901
 	Danilo José Bispo Galvão - 12/0114852
